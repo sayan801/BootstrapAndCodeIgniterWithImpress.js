@@ -1,4 +1,4 @@
 BootstrapWithImpress.js
 =======================
 
-Bootstrap With Impress.js presentation capabilities..
+Bootstrap & CodeIgniter With Impress.js presentation capabilities..
